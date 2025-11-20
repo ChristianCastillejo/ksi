@@ -1,0 +1,1058 @@
+{
+    "Brand": {
+        "srinagar": {
+            "title": "Ishwar Ashram Trust",
+            "description": "Preserving, translating, and sharing the ancient philosophy of Kashmir Shaivism and the profound teachings of Shaivacharya Swami Lakshmanjoo with the modern world.",
+            "copyright": "Ishwar Ashram Trust"
+        },
+        "delhi": {
+            "title": "Ishwar Ashram Delhi",
+            "description": "Serving as a spiritual oasis in the heart of New Delhi, dedicated to expanding the profound philosophy of Kashmir Shaivism to modern seekers.",
+            "copyright": "Ishwar Ashram Delhi"
+        },
+        "ksi": {
+            "title": "Kashmir Shaiva Institute",
+            "description": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+            "copyright": "Kashmir Shaiva Institute"
+        }
+    },
+    "Header": {
+        "menu": {
+            "tradition": {
+                "title": "The Tradition",
+                "philosophy": "The Philosophy",
+                "swami": "Swami Lakshmanjoo",
+                "about": "About The Trust"
+            },
+            "study": {
+                "title": "Study & Practice",
+                "storebook": "Book Store",
+                "workshops": "Immersive Retreats",
+                "community": "Online Community"
+            },
+            "visit": {
+                "title": "Visit & Contact",
+                "ashrams": "Our Ashrams",
+                "faq": "Frequently Asked Questions",
+                "contact": "Contact Us"
+            },
+            "donate": {
+                "title": "Donate"
+            },
+            "sections": {
+                "explore": "Explore",
+                "resources": "Resources",
+                "support": "Support & Visit"
+            },
+            "items": {
+                "philosophy": "The Philosophy",
+                "swami": "Swami Lakshmanjoo",
+                "about": "About the Trust",
+                "storebook": "Text & Audio Archive",
+                "workshops": "Workshops & Retreats",
+                "community": "Online Community",
+                "ashrams": "Ashram Locations",
+                "faq": "Frequently Asked Questions",
+                "contact": "Contact Administration",
+                "donate": "Make a Donation"
+            }
+        },
+        "ariaLabels": {
+            "openMobileMenu": "Open mobile navigation menu",
+            "goToHome": "Return to homepage",
+            "openCart": "Open Cart"
+        },
+        "mobileMenu": {
+            "srTitle": "Mobile Navigation Menu",
+            "backBtn": "Back",
+            "navigationLabel": "Navigation",
+            "exploreHint": "Explore →",
+            "menuFallbackTitle": "Menu",
+            "footerBrandTitle": "Ishwar Ashram Trust",
+            "footerBrandSubtitle": "Preserving the Oral Tradition",
+            "ariaLabels": {
+                "closeMenu": "Close mobile navigation menu"
+            }
+        },
+        "siteName": "Ishwar Ashram Trust"
+    },
+    "Checkout": {
+        "hero": {
+            "shippingTag": "Shipping to India Only",
+            "titleMain": "Order",
+            "titleItalic": "Request"
+        },
+        "client": {
+            "successTitle": "Request Submitted",
+            "successDesc": "Your order request has been securely sent to our team in Srinagar. We will contact you shortly to arrange payment and shipping.",
+            "returnBtn": "Return to Library",
+            "emptyTitle": "Your archive is empty",
+            "emptyDesc": "You haven't selected any texts yet. Return to the library to explore the sacred teachings of Shaivacharya Swami Lakshmanjoo.",
+            "exploreBtn": "Explore Texts",
+            "manualProcTitle": "Manual Processing",
+            "manualProcDesc": "To ensure personal attention, the Trust does not process automated payments online. Submitting this form sends a secure request to our staff, who will personally contact you to finalize the transaction.",
+            "selectedTextsTitle": "Selected Texts",
+            "totalLabel": "Total Estimated",
+            "shippingNote": "+ shipping cost (to be calculated)",
+            "outsideIndiaLabel": "Outside India?",
+            "visitAcademyBtn": "Visit Lakshmanjoo Academy",
+            "formTitle": "Delivery Details",
+            "nameLabel": "Full Name *",
+            "emailLabel": "Email Address *",
+            "phoneLabel": "Phone Number *",
+            "phoneNote": "Required for our team to contact you.",
+            "addressLabel": "Street Address *",
+            "cityLabel": "City *",
+            "stateLabel": "State *",
+            "pinLabel": "PIN Code *",
+            "countryLabel": "Country",
+            "countryValue": "India",
+            "submitBtn": "Request Order",
+            "submittingBtn": "Sending Request...",
+            "currencySymbol": "₹",
+            "intlToastTitle": "International Shipping",
+            "intlToastDesc": "We only ship physical copies within India. For global orders, please visit our partner.",
+            "intlToastBtn": "Go to Academy"
+        },
+        "server": {
+            "errors": {
+                "name": "Name must be at least 2 characters.",
+                "email": "Please enter a valid email address.",
+                "phone": "Please enter a valid Indian phone number.",
+                "address": "Please provide a complete shipping address.",
+                "city": "City is required.",
+                "state": "State is required.",
+                "pincode": "Valid PIN code is required.",
+                "cartItems": "Invalid cart data."
+            },
+            "messages": {
+                "formErrors": "Please correct the errors in the form.",
+                "resendError": "Error from Resend: {error}",
+                "success": "Your request has been sent to our Ashram team.",
+                "internalError": "An internal error occurred. Please try again later."
+            },
+            "email": {
+                "subject": "Order Request Received",
+                "title": "Order Request Received",
+                "greeting": "Dear {name},",
+                "thankYou": "Thank you for requesting texts from the Ishwar Ashram Trust. Your request",
+                "forwarded": "has been forwarded to our team.",
+                "importantNoteTitle": "Important Note",
+                "importantNoteBody": "This is an order request, not a confirmed payment. Our small administrative team will process this manually and contact you at <strong>{phone}</strong> or via this email to arrange the payment and shipping details.",
+                "totalEstimated": "Total Estimated",
+                "shippingCost": "+ shipping cost (to be calculated based on location)",
+                "shippingDetails": "Shipping details"
+            }
+        }
+    },
+    "Ashrams": {
+        "hero": {
+            "tagline": "The Sacred Sanctuaries",
+            "titleMain": "Our",
+            "titleItalic": "Ashrams",
+            "description": "Physical spaces dedicated to the preservation, study, and profound experience of Kashmir Shaivism. Open to sincere seekers from all over the world."
+        },
+        "srinagar": {
+            "tagline": "The Source",
+            "titleMain": "Srinagar,",
+            "titleItalic": "Kashmir",
+            "p1": "Constructed in 1962 by Swami Lakshmanjoo, this primary Ashram sits majestically in the foothills of the Zaberwan mountains, between the famous Mughal Gardens (Nishat) and Guptaganga, overlooking the Dal Lake.",
+            "p2Prefix": "It was named \"Ishwar Ashram\" because Swamiji was often referred to as ",
+            "p2Italic": "Ishwar Swaroop",
+            "p2Suffix": " (a manifestation of God). The grounds house the Amriteshwar Bhairava Temple, inaugurated in 1983, where Swamiji performed daily pooja irrespective of the weather.",
+            "planTitle": "Plan Your Visit",
+            "planDesc": "We welcome devotees to stay and immerse themselves in the teachings. Booking is required in advance.",
+            "phoneLabel": "+91 94190 05689 (Srinagar Desk)",
+            "phoneLink": "+919419005689",
+            "emailLabel": "srinagar@ishwarashram.com",
+            "caption": "Virtual Tour & Ashram Grounds"
+        },
+        "otherAshrams": {
+            "title": "The Extended Network",
+            "subtitle": "Jammu & New Delhi",
+            "bookingContactLabel": "Booking & Contact",
+            "note": "Note: This ashram is managed independently. Please contact them directly for accommodation availability.",
+            "items": [
+                {
+                    "city": "Jammu",
+                    "role": "Winter Capital Branch",
+                    "desc": "A vital center for the Shaiva community, maintaining the Sunday pooja traditions initiated by Swamiji's devotees in the 1970s.",
+                    "phone": "+91 94191 87550",
+                    "email": "jammu@ishwarashram.com",
+                    "address": "Ishwar Ashram Trust, Mohalla Paharian, Jammu, J&K"
+                },
+                {
+                    "city": "New Delhi",
+                    "role": "National Capital Center",
+                    "desc": "Serving the global and metropolitan seekers, the Delhi center facilitates study groups and continuous connection with the philosophy.",
+                    "phone": "+91 98106 09915",
+                    "email": "delhi@ishwarashram.com",
+                    "address": "Ishwar Ashram Trust, R-5, Greater Kailash-1, New Delhi"
+                }
+            ]
+        },
+        "activities": {
+            "tagline": "Annual & Weekly Calendar",
+            "titleMain": "Sacred",
+            "titleItalic": "Traditions",
+            "description": "Maintaining the rhythm of devotion established by Swami Lakshmanjoo, our centers unite globally through these sacred observances.",
+            "items": [
+                {
+                    "id": "puja",
+                    "iconId": "book",
+                    "title": "Sunday Puja",
+                    "tag": "Weekly Observance",
+                    "desc": "Traditionally conducted in Swamiji's presence with the recitation of the Sri Gurustuti. Around 1970, Swamiji granted permission for devotees in Jammu and Delhi to also conduct this worship. Today, this unified convention continues across all centers."
+                },
+                {
+                    "id": "birthday",
+                    "iconId": "sun",
+                    "title": "Swamiji's Birthday",
+                    "tag": "April / May",
+                    "desc": "Celebrated on Vaishakha Krishna Dwadeshi and May 9th. Historically, this was the only time Swamiji would meditate in public, entering Samadhi for hours. The Trust maintains this grand tradition annually with recitations, Prasad, and devotional hymns."
+                },
+                {
+                    "id": "mahasamadhi",
+                    "iconId": "flame",
+                    "title": "Mahasamadhi Commemoration",
+                    "tag": "Ashwin Krishna Paksha",
+                    "desc": "Honoring the day the Great Sage of Ishber departed his earthly life on September 27th, 1991. The Trust conducts an annual Havan (fire ceremony) at the Ishwar Ashram in Srinagar to commemorate his eternal presence in the absolute."
+                }
+            ]
+        },
+        "community": {
+            "title": "Stay Connected",
+            "description": "All three Ashrams share a unified digital space. Follow the official Facebook page for the latest updates on poojas, events, and daily wisdom from the tradition.",
+            "buttonLabel": "Join the Facebook Community",
+            "facebookLink": "https://www.facebook.com/iatdelhi"
+        }
+    },
+    "About": {
+        "sharedFooter": {
+            "tagline": "Take the Next Step",
+            "titleMain": "Engage with the",
+            "titleItalic": "Living Tradition",
+            "cards": {
+                "study": {
+                    "num": "01",
+                    "tag": "Study & Practice",
+                    "title": "Explore the Storebook",
+                    "desc": "Dive into the definitive translations and original audio lectures of Swami Lakshmanjoo to experience the Trika philosophy directly.",
+                    "ctaText": "Access Storebook"
+                },
+                "support": {
+                    "num": "02",
+                    "tag": "Support the Trust",
+                    "title": "Preserve the Light",
+                    "desc": "Contribute to the ongoing translation of sacred texts, the publication of books, and the maintenance of our sanctuaries.",
+                    "ctaText": "Make a Contribution"
+                }
+            }
+        },
+        "ksi": {
+            "hero": {
+                "tag": "Academic & Global Propagation",
+                "title": "Kashmir Shaiva",
+                "italicTitle": "Institute",
+                "description": "Dedicated to the threefold science of man and his world. Enabling seekers to rise from individuality to universality, without restriction of caste, creed, or color."
+            },
+            "trikaTitle": "The Pure Trika System",
+            "trikaDescPre": "Kashmir Shaivism is known as the pure Trika system. The word Trika means the threefold science. In Trika there are three energies: ",
+            "trikaDescPara": "para",
+            "trikaDescParaLabel": "(supreme), ",
+            "trikaDescApara": "apara",
+            "trikaDescAparaLabel": "(lowest), and ",
+            "trikaDescParapara": "parapara",
+            "trikaDescParaparaLabel": "(a combination of both).",
+            "divineTag": "Divine Origin",
+            "divineQuote": "The history goes back to satyuga when Lord Shiva appeared as Svacchandanatha with five heads and eighteen arms, narrating the 64 Bhairava Tantras.",
+            "kstsTitle": "The KSTS Renaissance",
+            "kstsDesc1": "The Kashmir Series of Texts and Studies (KSTS) comprises over 100 volumes, implemented from 1911 onwards by Maharaja Pratap Singh at the request of Swami Ram.",
+            "kstsDesc2": "Gathering manuscripts scattered during 500 years of historical shifts, this project became the first printed collection of major Trika texts, ensuring the teachings were preserved for the modern era.",
+            "lineageTag": "Historical Preservation",
+            "lineageTitle": "Eminent Masters of the Lineage",
+            "masters": [
+                {
+                    "period": "800 – 850 CE",
+                    "name": "Acharya Vasugupta",
+                    "work": "Shiva Sutras & Spanda Karikas"
+                },
+                {
+                    "period": "875 – 925 CE",
+                    "name": "Acharya Somananda",
+                    "work": "Shiva Dhristi (First Written Text)"
+                },
+                {
+                    "period": "924 – 1020 CE",
+                    "name": "Acharya Abhinavagupta",
+                    "work": "Tantraloka & Paramarthasara"
+                },
+                {
+                    "period": "980 – 1050 CE",
+                    "name": "Acharya Kshemraja",
+                    "work": "Pratyabhijnahridayam"
+                },
+                {
+                    "period": "1854 – 1915",
+                    "name": "Swami Ram",
+                    "work": "Established Trika Ashram in Srinagar"
+                },
+                {
+                    "period": "1907 – 1991",
+                    "name": "Swami Lakshmanjoo",
+                    "work": "The Last Master of the Unbroken Chain"
+                }
+            ]
+        },
+        "delhi": {
+            "hero": {
+                "tag": "National Capital Center",
+                "title": "Ishwar Ashram",
+                "italicTitle": "Delhi",
+                "description": "Serving metropolitan seekers and facilitating study groups, expanding the reach of the Shaiva tradition to the heart of India."
+            },
+            "bridgeTitle": "The Metropolitan Bridge",
+            "bridgeDesc": "The Delhi center functions as the vital link for the global Sangha traveling through or residing in India. It ensures that the living tradition of Kashmir Shaivism remains accessible amidst the fast-paced urban environment.",
+            "studyTitle": "Study Groups",
+            "studyDesc": "Hosting regular gatherings where seekers come together to listen to Swami Lakshmanjoo's recorded lectures and study the core philosophies of the Trika system.",
+            "globalTitle": "Global Distribution",
+            "globalDesc": "Serving as an administrative hub to facilitate the distribution of sacred texts, event organization, and support for the primary ashram in Srinagar."
+        },
+        "srinagar": {
+            "hero": {
+                "tag": "The Primary Sanctuary",
+                "title": "Ishwar Ashram",
+                "italicTitle": "Srinagar",
+                "description": "The epicenter of the tradition, constructed by Swami Lakshmanjoo to preserve and propagate the light of Kashmir Shaivism."
+            },
+            "estTitlePrefix": "Established by Swamiji in",
+            "estYear": "1962",
+            "p1": "Situated in the serene foothills of the Zaberwan mountains, Ishwar Ashram stands as the most significant site for the preservation of Kashmir Shaivism in the modern era.",
+            "p2": "The grounds house the sacred Amriteshwar Bhairava Temple. It was within these walls that Swami Lakshmanjoo held his regular classes, translating dense Tantric texts into accessible wisdom for scholars and seekers from both the East and the West."
+        }
+    },
+    "Contact": {
+        "hero": {
+            "titleMain": "Get in",
+            "titleItalic": "Touch"
+        },
+        "reach": {
+            "titleMain": "Reach out to the",
+            "titleItalic": "Ashram",
+            "description": "Whether you seek guidance on the teachings, wish to visit our centers, or have queries about publications, our administrative teams are here to assist you. Please allow a few days for our team to process and respond to your inquiry."
+        },
+        "form": {
+            "title": "Send an Inquiry",
+            "destLabel": "Direct Message To *",
+            "destPlaceholder": "Select Destination",
+            "destError": "Please select a destination before sending.",
+            "nameLabel": "Your Name *",
+            "namePlaceholder": "John Doe",
+            "emailLabel": "Email Address *",
+            "emailPlaceholder": "john@example.com",
+            "phoneLabel": "Phone Number",
+            "phonePlaceholder": "+91...",
+            "subjectLabel": "Subject *",
+            "subjectPlaceholder": "General Inquiry",
+            "messageLabel": "Your Message *",
+            "messagePlaceholder": "How can we help you?",
+            "successTitle": "Message Sent",
+            "successBtn": "Send Another Message",
+            "submitBtn": "Send Message",
+            "submittingBtn": "Sending..."
+        },
+        "organizations": [
+            {
+                "id": "ksi",
+                "name": "Kashmir Shaiva Institute",
+                "tag": "Global Education",
+                "address": "2, Mahinder Nagar, Canal Road, Jammu (180016), India",
+                "phones": [
+                    "0191-2501199",
+                    "0191-2555755"
+                ],
+                "email": "kashmirshaivainstitute@gmail.com"
+            },
+            {
+                "id": "srinagar",
+                "name": "Ishwar Ashram Srinagar",
+                "tag": "Primary Ashram",
+                "address": "Ishber, Nishat, Srinagar, J&K 191121",
+                "phones": [
+                    "+91 93116 11344",
+                    "0194-553295"
+                ],
+                "email": "iatsrinagar@gmail.com"
+            },
+            {
+                "id": "delhi",
+                "name": "Ishwar Ashram Delhi",
+                "tag": "National Center",
+                "address": "R-5, Pocket D, Sarita Vihar, New Delhi - 110076",
+                "phones": [
+                    "+91 11-46510874",
+                    "+91 9910440680"
+                ],
+                "email": "iatdelhi@gmail.com"
+            }
+        ],
+        "server": {
+            "errors": {
+                "name": "Name must be at least 2 characters.",
+                "email": "Please enter a valid email address.",
+                "organization": "Please select a destination.",
+                "subject": "Subject must be at least 3 characters.",
+                "message": "Message must be at least 10 characters.",
+                "general": "Please correct the errors in the form.",
+                "resend": "Failed to send email: {error}",
+                "internal": "An internal error occurred. Please try again later."
+            },
+            "successMessage": "Your message has been delivered successfully."
+        }
+    },
+    "Seo": {
+        "home": {
+            "title": "Kashmir Shaivism",
+            "description": {
+                "srinagar": "The primary sanctuary and historical epicenter of the oral tradition of Kashmir Shaivism, established by Swami Lakshmanjoo.",
+                "delhi": "A spiritual oasis in the capital, expanding the profound philosophy of Kashmir Shaivism to modern seekers.",
+                "ksi": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide."
+            }
+        },
+        "about": {
+            "title": "About The Trust",
+            "description": "Discover the history, lineage, and global mission of the Ishwar Ashram Trust and the Kashmir Shaiva Institute."
+        },
+        "ashrams": {
+            "title": "Our Ashrams",
+            "description": "Visit our sacred sanctuaries in Srinagar, Jammu, and Delhi. Physical spaces dedicated to the study and experience of the Trika philosophy."
+        },
+        "community": {
+            "title": "Global Community",
+            "description": "Join our digital Sangha, participate in online pujas, and access free study groups in partnership with the Lakshmanjoo Academy."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "description": "Get in touch with the Ishwar Ashram Trust for inquiries about teachings, ashram visits, or publications."
+        },
+        "donate": {
+            "title": "Donate & Support",
+            "description": "Support the preservation, translation, and global propagation of the Trika philosophy and the maintenance of our Ashrams."
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "description": "Find answers to common questions about Kashmir Shaivism, our study programs, book shipping, and ashram visits."
+        },
+        "storebook": {
+            "title": "Text & Audio Archive",
+            "description": "Explore the definitive translations, original tantric texts, and recorded audio lectures of Swami Lakshmanjoo."
+        },
+        "swamiLakshmanjoo": {
+            "title": "Swami Lakshmanjoo",
+            "description": "Learn about the life and legacy of Swami Lakshmanjoo, the last master of the unbroken oral tradition of Kashmir Shaivism."
+        },
+        "workshops": {
+            "title": "Immersive Retreats",
+            "description": "Join our immersive study programs and retreats in Kashmir, focused on the profound teachings of the Trika system."
+        },
+        "checkout": {
+            "title": "Secure Checkout"
+        },
+        "kashmirShaivism": {
+            "title": "The Philosophy of Kashmir Shaivism",
+            "description": "Dive into the pure Trika system. Explore the 36 elements of creation, the theory of reflection (Pratibimbavada), and the non-dualistic nature of Parama Shiva."
+        },
+        "productFallback": {
+            "title": "Sacred Text",
+            "description": "Explore this sacred text and audio archive from the unbroken lineage of Kashmir Shaivism."
+        }
+    },
+    "Donate": {
+        "hero": {
+            "tagline": "The Practice of Dana",
+            "titleMain": "Support the",
+            "titleItalic": "Tradition",
+            "description": "Your contributions ensure the preservation of the Shaiva philosophy, the maintenance of the Ashrams, and the continuation of our educational and charitable activities."
+        },
+        "client": {
+            "bankDetailsTitle": "Bank Transfer Details",
+            "accNameLabel": "Account Name",
+            "accNoLabel": "Account No",
+            "bankNameLabel": "Bank Name",
+            "ifscLabel": "IFSC / RTGS",
+            "branchLabel": "Branch",
+            "taxExemptLabel": "Tax Exemption:",
+            "foreignWarning": "Please note: Foreign or overseas donations are not accepted for this account due to government regulations.",
+            "scanUpiLabel": "Scan to Pay via UPI",
+            "informUsTitle": "Inform Us",
+            "informUsDesc": "In compliance with Government of India regulations, and to issue your receipt (and 80G certificate if applicable), please fill out this form immediately after completing your transfer or UPI payment.",
+            "informUsStep1": "Take a screenshot of the successful transaction.",
+            "informUsStep2": "Note down the UTR or Transaction ID.",
+            "informUsStep3": "If claiming 80G rebate, PAN is mandatory.",
+            "nameLabel": "Full Name *",
+            "emailLabel": "Email *",
+            "phoneLabel": "Phone Number *",
+            "panLabel": "PAN / Aadhar Number",
+            "utrLabel": "Transaction ID / UTR *",
+            "amountLabel": "Donation Amount (₹ INDIAN RUPEES) *",
+            "addressLabel": "Full Postal Address *",
+            "uploadLabel": "Upload QR Screenshot / Receipt *",
+            "uploadDesc": "Click to upload your receipt",
+            "uploadLimits": "PNG, JPG or PDF (Max 5MB)",
+            "submitBtn": "Submit Donation Details",
+            "submittingBtn": "Submitting...",
+            "successTitle": "Thank You",
+            "successBtn": "Submit Another Donation"
+        },
+        "organizations": {
+            "ksi": {
+                "shortName": "Kashmir Shaiva Inst.",
+                "fullName": "Kashmir Shaiva Institute",
+                "desc": "Supporting the global propagation, research, and education of Kashmir Shaiva philosophy.",
+                "tag1": "Global Outreach",
+                "tag2": "Education",
+                "taxInfo": "Donations support our educational initiatives and research programs."
+            },
+            "srinagar": {
+                "shortName": "Srinagar Ashram",
+                "fullName": "Ishwar Ashram Trust, Srinagar",
+                "desc": "Supporting the primary Ashram in Kashmir, maintenance of the Amriteshwar Bhairava Temple, and local charitable activities.",
+                "tag1": "80G Tax Exempt",
+                "tag2": "Primary Ashram",
+                "taxInfo": "Exempt U/S 80 G of Income Tax Act. PAN No: AAATI1393Q."
+            },
+            "delhi": {
+                "shortName": "Delhi Ashram",
+                "fullName": "Ishwar Ashram Trust, New Delhi",
+                "desc": "Supporting the metropolitan center in Delhi. Note: Accepts donations from India only.",
+                "tag1": "80G Tax Exempt",
+                "tag2": "India Only",
+                "taxInfo": "Exempt U/S 80G. PAN is mandatory for Indian donors claiming rebate."
+            }
+        },
+        "server": {
+            "errors": {
+                "organization": "Organization is required.",
+                "name": "Name must be at least 2 characters.",
+                "email": "Please enter a valid email address.",
+                "phone": "Please enter a valid phone number.",
+                "utr": "Transaction ID/UTR is required.",
+                "amount": "Amount is required.",
+                "address": "Full postal address is required.",
+                "fileSize": "Max file size is 5MB.",
+                "fileType": "Only .jpg, .jpeg, .png and .pdf formats are supported.",
+                "general": "Please correct the errors in the form.",
+                "resend": "Failed to process notification: {error}",
+                "internal": "An internal error occurred. Please try again later."
+            },
+            "successMessage": "Your donation details have been submitted successfully."
+        }
+    },
+    "Community": {
+        "hero": {
+            "tagline": "The Digital Sangha",
+            "titleMain": "Connected",
+            "titleItalic": "Across the Globe",
+            "description": "While our Ashrams provide physical sanctuaries in India, the light of Kashmir Shaivism extends worldwide through our active online community and digital resources."
+        },
+        "partnership": {
+            "titleMain": "In Partnership with the",
+            "titleItalic": "Lakshmanjoo Academy",
+            "description": "To ensure seekers worldwide have continuous access to Swamiji's teachings, the Ishwar Ashram Trust works in harmony with the Lakshmanjoo Academy (USA). The Academy hosts the global online study groups, digital pujas, and an extensive library of books, available for purchase internationally."
+        },
+        "externalResources": {
+            "sangha": {
+                "title": "Free Weekly Sangha",
+                "tag": "Global Study Group",
+                "desc": "Join seekers from around the world every week to study the foundational texts and listen to Swamiji's recorded lectures in a supportive online community.",
+                "cta": "Join the Sangha"
+            },
+            "puja": {
+                "title": "Sunday Online Puja",
+                "tag": "Weekly Devotion",
+                "desc": "Participate in the traditional Sunday recitation of sacred hymns and verses, maintaining the rhythm of devotion established by Swamiji, broadcasted live.",
+                "cta": "Attend the Puja"
+            },
+            "blog": {
+                "title": "Swamiji Says Blog",
+                "tag": "Articles & Excerpts",
+                "desc": "Dive into a rich repository of transcribed excerpts, philosophical articles, and short teachings from Swami Lakshmanjoo updated regularly by the Academy.",
+                "cta": "Read the Blog"
+            }
+        }
+    },
+    "Faq": {
+        "hero": {
+            "tagline": "Guidance",
+            "titleMain": "Frequently Asked",
+            "titleItalic": "Questions",
+            "description": "Clarity on our philosophy, the manual process for acquiring sacred texts, and details regarding ashram visits."
+        },
+        "categories": {
+            "navLabel": "Navigation",
+            "navTitleMain": "Quick",
+            "navTitleItalic": "Answers",
+            "exploreButtonText": "Explore Lakshmanjoo Academy",
+            "philosophy": {
+                "title": "The Philosophy",
+                "faq0": {
+                    "q": "What is Kashmir Shaivism?",
+                    "a": "Kashmir Shaivism, or Trika philosophy, is a non-dualistic spiritual tradition that emerged in Kashmir. It teaches that the entire universe is a manifestation of pure consciousness (Parama Shiva) and provides practical means (Upayas) to recognize our inherent unity with this divine reality."
+                },
+                "faq1": {
+                    "q": "Do I need prior background to study the texts?",
+                    "a": "While the philosophical concepts can be dense, Swami Lakshmanjoo's teachings are uniquely accessible. We recommend starting with 'Kashmir Shaivism: The Secret Supreme' to build a foundational understanding before diving into heavier texts like the Tantraloka."
+                }
+            },
+            "storebook": {
+                "title": "Bookstore & Shipping",
+                "faq0": {
+                    "q": "How does the book purchasing process work?",
+                    "a": "Our online archive operates on a manual request system to ensure personalized service. When you add a book to your cart and check out, your request is sent to our Ashram team. A staff member will then contact you directly to confirm availability, arrange payment, and coordinate shipping."
+                },
+                "faq1": {
+                    "q": "Do you ship books internationally?",
+                    "a": "Currently, the Ishwar Ashram Trust website only processes and ships book orders within India. For international orders, we kindly redirect you to our official US partner, the Lakshmanjoo Academy, who handles worldwide distribution of Swami Lakshmanjoo's literature."
+                }
+            },
+            "ashram": {
+                "title": "Ashrams & Retreats",
+                "faq0": {
+                    "q": "Can I visit the Ishwar Ashram centers?",
+                    "a": "Yes. We have centers in Srinagar, Jammu, and New Delhi. Sincere seekers are welcome to visit or participate in our Sunday Poojas. Please contact the specific ashram prior to your visit to confirm timings and accommodation availability."
+                },
+                "faq1": {
+                    "q": "How do I join an immersive study program?",
+                    "a": "We periodically organize study retreats in Srinagar. You can find upcoming dates and registration forms on our Workshops page. Spaces are limited to ensure a focused and intimate study environment."
+                }
+            },
+            "digital": {
+                "title": "Digital Resources",
+                "faq0": {
+                    "q": "Are there free online resources to learn from?",
+                    "a": "Absolutely. Our US partner, the Lakshmanjoo Academy, hosts an excellent array of digital resources including free weekly webinars, an online Sangha, and the 'Swamiji Says' blog. We highly recommend exploring their platform for ongoing digital study."
+                }
+            }
+        }
+    },
+    "Storebook": {
+        "hero": {
+            "tagline": "The Source Material",
+            "titleMain": "Sacred",
+            "titleItalic": "Texts & Transcripts",
+            "description": "Explore the definitive translations and original audio lectures preserved by the unbroken lineage of Kashmir Shaivism."
+        },
+        "client": {
+            "archiveTitle": "The Archive",
+            "diffLabel": "Difficulty",
+            "langLabel": "Language",
+            "sortLabel": "Sort By",
+            "sortPlaceholder": "Select order",
+            "sortAZ": "Title: A - Z",
+            "sortZA": "Title: Z - A",
+            "sortPriceAsc": "Price: Low to High",
+            "sortPriceDesc": "Price: High to Low",
+            "showingPrefix": "Showing",
+            "showingSuffix": "texts",
+            "noTextsFound": "No texts found",
+            "clearFiltersBtn": "Clear Filters",
+            "currencySymbol": "₹",
+            "difficultyAll": "All",
+            "difficultyEssential": "Essential",
+            "difficultyIntermediate": "Intermediate",
+            "difficultyAdvanced": "Advanced",
+            "languageAll": "All",
+            "languageEnglish": "English",
+            "languageHindi": "Hindi"
+        }
+    },
+    "Product": {
+        "backToBookstore": "Back to Bookstore",
+        "byAuthorLabel": "by",
+        "notAvailable": "N/A",
+        "descriptionFallback": "Detailed description...",
+        "techSpecsTitle": "Technical Specifications",
+        "languageLabel": "Language",
+        "levelLabel": "Level",
+        "formatLabel": "Format",
+        "hardcoverLabel": "Softcover",
+        "currencySymbol": "₹",
+        "addToCart": {
+            "decreaseAria": "Decrease Quantity",
+            "increaseAria": "Increase Quantity",
+            "addToCartBtn": "Add to Cart",
+            "maxQuantityErrorPrefix": "You can only add up to",
+            "maxQuantityErrorSuffix": "units of"
+        }
+    },
+    "SwamiLakshmanjoo": {
+        "hero": {
+            "tagline": "The Last Master of the Oral Tradition",
+            "titleMain": "Swami",
+            "titleItalic": "Lakshmanjoo",
+            "description": "An unbroken chain of supreme awareness, preserved for humanity.",
+            "imageAlt": "Portrait of Swami Lakshmanjoo",
+            "archiveLabel": "Archive 1980s"
+        },
+        "quote": {
+            "textMain": "God and the individual are one.",
+            "textItalic": "To realize this",
+            "textEnd": "is the essence of Kashmir Shaivism."
+        },
+        "biography": {
+            "titleMain": "The Divine",
+            "titleItalic": "Incarnation",
+            "p1": "Born on May 9, 1907, in Srinagar, Kashmir, Swami Lakshman Joo Raina emerged as the most recent guiding light of the ancient Kashmir Shaiva tradition. His parents, Pandit Narain Dass Raina\u2014a pioneer known for introducing houseboats to Kashmir\u2014and Arnimal, recognized his divine nature early on.",
+            "p2": "From the tender age of three, his profound spiritual inclination was evident as he spent his days creating and worshipping <em>Shiva-lingams</em> made of clay. This early immersion in divine play foreshadowed a life entirely dedicated to the highest states of consciousness.",
+            "p3": "He was later initiated by his revered master, Swami Mahatabakak, becoming the ultimate custodian of the profound, non-dualistic Trika philosophy, entrusted with preventing these sacred texts from being lost to time.",
+            "buttonLabel": "Explore the Philosophy",
+            "buttonLink": "/kashmir-shaivism"
+        },
+        "timeline": {
+            "title": "A Life Sketch",
+            "tagline": "The Journey of Awareness",
+            "items": [
+                {
+                    "year": "1907",
+                    "title": "The Auspicious Birth",
+                    "description": "Born in Srinagar to a devoted family. His early years were marked by spontaneous states of meditation and an innate understanding of the divine."
+                },
+                {
+                    "year": "1920s",
+                    "title": "The Unbroken Chain",
+                    "description": "Initiated by Swami Mahatabakak, a direct disciple of Swami Ram Tirtha. He immersed himself in the intensive study of the Trika philosophy, mastering the sacred oral tradition."
+                },
+                {
+                    "year": "1938",
+                    "title": "The Silent Pilgrimage",
+                    "description": "At age 31, Swamiji undertook a 'Maun' (silent) pilgrimage across India. He sought to confirm his spiritual realizations by interacting with other recognized saints."
+                },
+                {
+                    "year": "1960s",
+                    "title": "Ishber Ashram & Teachings",
+                    "description": "Established the ashram in Srinagar. He began holding regular classes for seekers worldwide, translating dense texts into accessible wisdom and writing pivotal papers."
+                },
+                {
+                    "year": "1991",
+                    "title": "Mahasamadhi",
+                    "description": "Swamiji left his mortal frame, but his presence remains omnipresent. He left behind a vast archive of recorded lectures and clear guidelines to continue his mission."
+                }
+            ]
+        },
+        "books": {
+            "tagline": "The Source Material",
+            "titleMain": "Discover the",
+            "titleItalic": "Direct Teachings",
+            "description": "Swami Lakshmanjoo dedicated his life to translating and explaining the dense, secretive texts of Kashmir Shaivism. His recorded lectures and published books remain the most authentic gateway to understanding this supreme non-dual reality.",
+            "buttonLabel": "Explore the Library",
+            "buttonLink": "/storebook",
+            "mainBookAlt": "Kashmir Shaivism: The Secret Supreme Book Cover",
+            "secondaryBookAlt": "Shiva Sutras Book Cover",
+            "sealAlt": "Decorative Seal"
+        }
+    },
+    "Home": {
+        "hero": {
+            "srinagar": {
+                "tagline": "Preserving the Oral Tradition",
+                "titleLine1": "Ishwar Ashram",
+                "titleLine2": "Srinagar",
+                "description": "Located at the foothills of the Mahadeva mountain, guarding the sacred wisdom of Kashmir Shaivism since its foundation.",
+                "imageSrc": "/images/ashram/srinagar-2.webp",
+                "imageAlt": "Mahadeva Mountain Srinagar Ashram"
+            },
+            "delhi": {
+                "tagline": "A Sanctuary in the Capital",
+                "titleLine1": "Ishwar Ashram",
+                "titleLine2": "Delhi",
+                "description": "Serving as a spiritual oasis in the heart of New Delhi, dedicated to expanding the profound philosophy of Kashmir Shaivism to modern seekers.",
+                "imageSrc": "/images/ashram/srinagar-2.webp",
+                "imageAlt": "Ishwar Ashram Delhi Center"
+            },
+            "ksi": {
+                "tagline": "The Academic Wing",
+                "titleLine1": "Kashmir Shaiva",
+                "titleLine2": "Institute",
+                "description": "A premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+                "imageSrc": "/images/ashram/srinagar-2.webp",
+                "imageAlt": "Kashmir Shaiva Institute"
+            },
+            "buttons": {
+                "kashmirShaivism": "Kashmir Shaivism",
+                "swamiLakshmanjoo": "Swami Lakshmanjoo"
+            }
+        },
+        "manifesto": {
+            "srinagar": {
+                "prefix": "A seat of wisdom, preserving the sacred oral tradition of Kashmir Shaivism as imparted by ",
+                "highlight": "Swami Lakshmanjoo",
+                "suffix": "."
+            },
+            "delhi": {
+                "prefix": "A spiritual oasis in the heart of the capital, extending the timeless wisdom of ",
+                "highlight": "Kashmir Shaivism",
+                "suffix": " to the modern seeker."
+            },
+            "ksi": {
+                "prefix": "The premier academic institution committed to the rigorous study, translation, and global dissemination of ",
+                "highlight": "Trika Philosophy",
+                "suffix": "."
+            }
+        },
+        "bento": {
+            "tagline": "Deepen your understanding",
+            "titleMain": "Pathways to the",
+            "titleItalic": "Tradition",
+            "description": "Whether you are beginning your study or seeking to support the lineage, explore the avenues available to connect with the Trust.",
+            "exploreLabel": "Explore",
+            "pathways": [
+                {
+                    "id": "archive",
+                    "num": "01",
+                    "tag": "Scriptures & Audio",
+                    "title": "The Storebook",
+                    "desc": "Access the definitive translations and original audio lectures of Swami Lakshmanjoo.",
+                    "href": "/storebook",
+                    "iconId": "library"
+                },
+                {
+                    "id": "philosophy",
+                    "num": "02",
+                    "tag": "Core Teachings",
+                    "title": "The Philosophy",
+                    "desc": "Dive into the theory of reflection (Pratibimbavada) and the 36 elements of creation in the Trika system.",
+                    "href": "/kashmir-shaivism",
+                    "iconId": "compass"
+                },
+                {
+                    "id": "retreats",
+                    "num": "03",
+                    "tag": "Immersive Study",
+                    "title": "Study Retreats",
+                    "desc": "Join our intensive programs in Kashmir to study the texts in a focused, traditional environment.",
+                    "href": "/workshops",
+                    "iconId": "users"
+                },
+                {
+                    "id": "donate",
+                    "num": "04",
+                    "tag": "Preservation",
+                    "title": "Support the Trust",
+                    "desc": "Contribute to the ongoing translation, publishing, and global preservation of the Shaiva philosophy.",
+                    "href": "/donate",
+                    "iconId": "heart"
+                }
+            ]
+        },
+        "ecosystem": {
+            "tagline": "Our Network",
+            "titleMain": "One Tradition,",
+            "titleItalic": "Three Trusts",
+            "btnLabel": "View Locations",
+            "currentBadge": "Current Site",
+            "centers": [
+                {
+                    "id": "srinagar",
+                    "name": "Ishwar Ashram Srinagar",
+                    "role": "Primary Ashram",
+                    "desc": "The historical epicenter where Swamiji established the ashram.",
+                    "url": "https://ishwarashram.in",
+                    "cta": "Explore"
+                },
+                {
+                    "id": "delhi",
+                    "name": "Ishwar Ashram Delhi",
+                    "role": "National Center",
+                    "desc": "Serving metropolitan seekers and facilitating study groups.",
+                    "url": "https://ishwarashramtrust.com",
+                    "cta": "Explore"
+                },
+                {
+                    "id": "ksi",
+                    "name": "Kashmir Shaiva Institute",
+                    "role": "Global Education",
+                    "desc": "Based in Srinagar, dedicated to rigorous academic study and global propagation.",
+                    "url": "https://kashmirshaivainstitute.org",
+                    "cta": "Explore"
+                }
+            ]
+        },
+        "footer": {
+            "title": "Have questions about the teachings or your visit?",
+            "faqBtn": "Read our FAQ",
+            "contactBtn": "Contact the Trust"
+        }
+    },
+    "Workshops": {
+        "hero": {
+            "taglineUpcoming": "Upcoming Study Program",
+            "taglineDefault": "Immersive Study Programs",
+            "titleUpcomingLine1": "Unveiling the",
+            "titleUpcomingLine2Italic": "Secret Supreme",
+            "titleDefaultLine1": "Awaken to the",
+            "titleDefaultLine2Italic": "Highest Reality",
+            "descUpcoming": "Join us in the sacred valley of Kashmir for an immersive exploration of the mystic dimensions of Trika philosophy.",
+            "descDefault": "Discover the profound teachings of Kashmir Shaivism through guided immersions, deep textual study, and contemplation in sacred environments."
+        },
+        "essence": {
+            "tagline": "The Experience",
+            "titleMain": "Beyond Intellectual",
+            "titleItalic": "Understanding",
+            "dropCap": "O",
+            "paragraph": "ur immersive programs are designed for sincere seekers who wish to move beyond mere academic study. By stepping away from the routines of daily life, participants are invited to embody the teachings through direct experience, contemplation, and guided discourse.",
+            "feature1Title": "Original Texts",
+            "feature1Desc": "Dive deep into the original scriptures of Kashmir Shaivism, guided by the framework and translations of Shaivacharya Swami Lakshmanjoo.",
+            "feature2Title": "Sacred Geography",
+            "feature2Desc": "Many of our programs take place at the foothills of the Mahadeva Mountains in Srinagar, the very birthplace of these ancient teachings."
+        },
+        "activeProgram": {
+            "aboutTitle": "About the Program",
+            "keyElementsTitle": "Key Elements",
+            "facultyTitle": "Distinguished Faculty",
+            "registrationTitle": "Registration",
+            "includesNote": "Includes all meals at the Ashram, courseware, and transportation to local shrines. Travel and accommodation are not included.",
+            "registerButton": "Register Now",
+            "brochureButton": "Download Brochure",
+            "currencySymbol": "₹"
+        },
+        "waitlist": {
+            "title": "Upcoming Immersions",
+            "description": "We are currently preparing the schedule for our next study programs. In the meantime, the most profound preparation is to immerse yourself directly in Swami Lakshmanjoo's translated texts and audio recordings.",
+            "buttonLabel": "Explore the Study Materials"
+        }
+    },
+    "Footer": {
+        "brand": {
+            "srinagar": {
+                "title": "Ishwar Ashram Trust",
+                "description": "Preserving, translating, and sharing the ancient philosophy of Kashmir Shaivism and the profound teachings of Shaivacharya Swami Lakshmanjoo with the modern world.",
+                "copyright": "Ishwar Ashram Trust"
+            },
+            "delhi": {
+                "title": "Ishwar Ashram Delhi",
+                "description": "Serving as a spiritual oasis in the heart of New Delhi, dedicated to expanding the profound philosophy of Kashmir Shaivism to modern seekers.",
+                "copyright": "Ishwar Ashram Delhi"
+            },
+            "ksi": {
+                "title": "Kashmir Shaiva Institute",
+                "description": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+                "copyright": "Kashmir Shaiva Institute"
+            }
+        },
+        "supportBtn": "Support the Trust",
+        "wisdom": {
+            "label": "The Wisdom",
+            "ariaLabel": "Wisdom Links",
+            "kashmirShaivism": "Kashmir Shaivism",
+            "swamiLakshmanjoo": "Swami Lakshmanjoo",
+            "textsPublications": "Texts & Publications",
+            "immersiveWorkshops": "Immersive Workshops"
+        },
+        "trust": {
+            "label": "The Trust",
+            "ariaLabel": "Organization Links",
+            "aboutUs": "About Us",
+            "ourAshrams": "Our Ashrams",
+            "community": "Community",
+            "faq": "FAQ"
+        },
+        "connect": {
+            "label": "Connect",
+            "ariaLabel": "Connect Links",
+            "contactUs": "Contact Us",
+            "youtube": "YouTube"
+        },
+        "legal": {
+            "ariaLabel": "Legal Links",
+            "allRightsReserved": "All rights reserved.",
+            "privacyPolicy": "Privacy Policy",
+            "termsOfService": "Terms of Service",
+            "shippingPolicy": "Shipping Policy",
+            "designedBy": "Hand-crafted in Design & Code by",
+            "designedByLink": " Nectar Studio"
+        }
+    },
+    "KashmirShaivism": {
+        "hero": {
+            "tagline": "The Threefold Science",
+            "titleMain": "Kashmir",
+            "titleItalic": "Shaivism",
+            "description": "A supreme monistic philosophy derived from the ancient Bhairava Tantras. It recognizes that the entire universe, and every action within it, is an expression of one infinite consciousness."
+        },
+        "quote": {
+            "quotePrefix": "Everything exists in the mirror of God consciousness. Where",
+            "reflectionSpan": "the reflection and the reflected",
+            "quoteSuffix": " are one",
+            "author": "— Swami Lakshmanjoo"
+        },
+        "origins": {
+            "tagline": "The Oral Tradition",
+            "titleMain": "The Trika",
+            "titleItalic": "Philosophy",
+            "contextDesc": "Revealed by Lord Siva in the form of a dialogue between himself and the Divine Mother.",
+            "contentPart1Prefix": "he teachings of Kashmir Shaivism are derived from the ninety-two Tantras, also known as Agamas. Of these Tantras, sixty-four are considered purely monistic, known as the ",
+            "contentPart1Em": "Bhairava Tantras",
+            "contentPart1Suffix": ". The essence of these monistic texts is what we call 'Trika Shaivism'.",
+            "contentPart2Prefix": "The word ",
+            "contentPart2Em": "Trika",
+            "contentPart2Middle": " translates to \"the threefold science of man and his world.\" Within this system, it is recognized that there are three primary energies: ",
+            "contentPart2Para": "parā",
+            "contentPart2ParaLabel": " (supreme), ",
+            "contentPart2Parapara": "parāparā",
+            "contentPart2ParaparaLabel": " (medium), and ",
+            "contentPart2Apara": "aparā",
+            "contentPart2AparaLabel": " (lowest). This whole universe and every action in it, whether spiritual, physical, or worldly, exists within these three energies.",
+            "subtitle": "The Secret Supreme",
+            "contentPart3": "Due to the rise and fall of Kashmir over the past eight centuries, the knowledge of Kashmir Shaivism remained practically hidden, passed down strictly by word of mouth from master to disciple.",
+            "contentPart4Prefix": "In 1972, Swami Lakshmanjoo\u2014a direct descendant in this unbroken chain of Masters\u2014gave a series of lectures without the aid of texts. Relying solely on his vast memory, he effortlessly verified his statements with quotes from the Shaiva tantras, revealing the essence of the first fifteen chapters of Abhinavagupta's magnum opus, the ",
+            "contentPart4Em": "Tantraloka",
+            "contentPart4Middle": ". These recordings became the foundational book: ",
+            "contentPart4Strong": "Kashmir Shaivism, The Secret Supreme",
+            "contentPart4Suffix": "."
+        },
+        "teachings": {
+            "title": "Core Principles",
+            "subtitle": "From the Secret Supreme",
+            "items": [
+                {
+                    "id": "01",
+                    "title": "The 36 Tattvas",
+                    "subtitle": "Elements of Creation",
+                    "desc": "The nature of the thirty-six elements from earth to Shiva. It maps how the omnipresent, formless state of Parama Shiva descends into limited physical existence, and how it can rise again."
+                },
+                {
+                    "id": "02",
+                    "title": "Pratibimbavada",
+                    "subtitle": "Theory of Reflection",
+                    "desc": "The universe as we see it is a reflection in the mirror of God consciousness. Created by the absolute independent will of God (svatantrya), the reflection and the reflected are one."
+                },
+                {
+                    "id": "03",
+                    "title": "The Upayas",
+                    "subtitle": "The Three Means",
+                    "desc": "Three paths for entering Universal God consciousness: shambhavopaya (supreme, no support needed), shaktopaya (medium, centering), and anavopaya (inferior, using objects as aids)."
+                },
+                {
+                    "id": "04",
+                    "title": "The Malas",
+                    "subtitle": "The Three Impurities",
+                    "desc": "The impurities residing in illusion (maya) that bind us: Karma (the impression of pleasure/pain), Mayiya (the creation of duality 'mine/not mine'), and Anava (the feeling of incompleteness)."
+                },
+                {
+                    "id": "05",
+                    "title": "Pancakrityavidhi",
+                    "subtitle": "The Five Great Acts",
+                    "desc": "Creating, protecting, destroying, concealing, and revealing. While the individual soul feels it acts independently, in reality, all actions depend on the will of Lord Shiva."
+                }
+            ]
+        },
+        "cta": {
+            "titleMain": "Absorb the",
+            "titleItalic": "Essence",
+            "p1": "A devotee once asked Swamiji what was the best way to learn Kashmir Shaivism. His simple reply was:",
+            "quote": "\u201cRead my Secret Supreme over and over, and you will absorb the essence of Kashmir Shaivism.\u201d",
+            "buttonLabel": "Explore The Secret Supreme",
+            "linkHref": "/storebook"
+        }
+    }
+}
