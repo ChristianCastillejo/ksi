@@ -1,0 +1,45 @@
+"use client";
+
+import * as React from "react";
+import { Slot } from "@radix-ui/react-slot";
+import { cva, type VariantProps } from "class-variance-authority";
+import { cn } from "@/lib/utils";
+
+const containerVariants = cva("mx-auto w-full px-4 md:px-6 lg:px-8", {
+  variants: {
+    size: {
+      default: "max-w-6xl",
+      sm: "max-w-3xl",
+      lg: "max-w-7xl",
+      xl: "max-w-[1400px]",
+      full: "max-w-none",
+    },
+  },
+  defaultVariants: {
+    size: "default",
+  },
+});
+
+export interface ContainerProps
+  extends
+    React.HTMLAttributes<HTMLDivElement>,
+    VariantProps<typeof containerVariants> {
+  asChild?: boolean;
+}
+
+const Container = React.forwardRef<HTMLDivElement, ContainerProps>(
+  ({ className, size, asChild = false, ...props }, ref) => {
+    const Comp = asChild ? Slot : "div";
+
+    return (
+      <Comp
+        ref={ref}
+        className={cn(containerVariants({ size }), className)}
+        {...props}
+      />
+    );
+  },
+);
+Container.displayName = "Container";
+
+export { Container, containerVariants };
