@@ -2,7 +2,7 @@
 
 > An Enterprise-grade, Multi-Tenant web architecture built to unify the global centers of the Kashmir Shaivism teachings.
 
-**🌍 [View Live Platform](https://kashmirshaivainsitute.org)**
+**🌍 [View Live Platform](https://ksi-plum.vercel.app/)**
 
 <div align="center">
   <img src="./public/images/readme-cover.png" alt="Ishwar Ashram Trust Platform UI Mockup" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin-top: 32px; margin-bottom: 32px;">
