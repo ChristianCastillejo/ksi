@@ -41,7 +41,7 @@ const fontSansHi = Mukta({
 
 
 export const viewport: Viewport = {
-    themeColor: "#de6b48",
+    themeColor: "#fbf9f6",
     width: "device-width",
     initialScale: 1,
     maximumScale: 1,

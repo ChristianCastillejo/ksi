@@ -57,7 +57,8 @@ export const HomeHero = ({ content }: { content: HomeHeroContent }) => {
                 <motion.div initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: CONFIG.ANIMATION.DURATION.SLOW, delay: CONFIG.ANIMATION.DELAY.SHORT, ease: "easeOut" }} className="lg:col-span-6 relative h-[50vh] lg:h-[75vh] w-full rounded-[var(--radius-content)] overflow-hidden shadow-2xl border border-border/50">
                     <motion.div style={{ y: yImage }} className="absolute inset-0 w-full h-[120%] -top-[10%]">
                         <Image src={content.imageSrc} alt={content.imageAlt} fill priority sizes="(max-width: 2048px) 100vw, 50vw" className="object-cover object-center" />
-                        <div className="absolute inset-0 bg-background/10 mix-blend-color" />
+
+                        <div className="absolute inset-0 bg-gradient-to-tr from-background/20 via-transparent to-black/10" />
                     </motion.div>
                 </motion.div>
             </div>
