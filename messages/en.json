@@ -12,7 +12,7 @@
         },
         "ksi": {
             "title": "Kashmir Shaiva Institute",
-            "description": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+            "description": "A global beacon of wisdom, dedicated to preserving, studying, and translating the profound teachings of Kashmir Shaivism for seekers.",
             "copyright": "Kashmir Shaiva Institute"
         }
     },
@@ -416,7 +416,7 @@
             "description": {
                 "srinagar": "The primary sanctuary and historical epicenter of the oral tradition of Kashmir Shaivism, established by Swami Lakshmanjoo.",
                 "delhi": "A spiritual oasis in the capital, expanding the profound philosophy of Kashmir Shaivism to modern seekers.",
-                "ksi": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide."
+                "ksi": "A global sanctuary for learning and self-discovery. We preserve, research, and illuminate the universal teachings of Kashmir Shaivism by Swami Lakshmanjoo."
             }
         },
         "about": {
@@ -508,10 +508,10 @@
             "ksi": {
                 "shortName": "Kashmir Shaiva Inst.",
                 "fullName": "Kashmir Shaiva Institute",
-                "desc": "Supporting the global propagation, research, and education of Kashmir Shaiva philosophy.",
-                "tag1": "Global Outreach",
-                "tag2": "Education",
-                "taxInfo": "Donations support our educational initiatives and research programs."
+                "desc": "Empowering seekers through the deep study, preservation, and authentic transmission of Trika philosophy.",
+                "tag1": "Education",
+                "tag2": "Research & Translation",
+                "taxInfo": "Donations support our global educational initiatives and research programs."
             },
             "srinagar": {
                 "shortName": "Srinagar Ashram",
@@ -770,10 +770,10 @@
                 "imageAlt": "Ishwar Ashram Delhi Center"
             },
             "ksi": {
-                "tagline": "The Academic Wing",
+                "tagline": "Illuminating Ancient Wisdom",
                 "titleLine1": "Kashmir Shaiva",
                 "titleLine2": "Institute",
-                "description": "A premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+                "description": "An educational sanctuary dedicated to preserving the oral traditions of Kashmir Shaivism as taught by Swami Lakshmanjoo.",
                 "imageSrc": "/images/ashram/srinagar-2.webp",
                 "imageAlt": "Kashmir Shaiva Institute"
             },
@@ -794,9 +794,9 @@
                 "suffix": " to the modern seeker."
             },
             "ksi": {
-                "prefix": "The premier academic institution committed to the rigorous study, translation, and global dissemination of ",
+                "prefix": "A global gateway to ancient wisdom, dedicated to preserving, studying, and illuminating the profound depths of ",
                 "highlight": "Trika Philosophy",
-                "suffix": "."
+                "suffix": " for the modern seeker."
             }
         },
         "bento": {
@@ -871,8 +871,8 @@
                     "id": "ksi",
                     "name": "Kashmir Shaiva Institute",
                     "role": "Global Education",
-                    "desc": "Based in Srinagar, dedicated to rigorous academic study and global propagation.",
-                    "url": "https://kashmirshaivainstitute.org",
+                    "desc": "The educational center dedicated to the rigorous study, translation, and sharing of Kashmir Shaivism worldwide.",
+                    "url": "https://kashmirshaivainstitute.com",
                     "cta": "Explore"
                 }
             ]
@@ -935,7 +935,7 @@
             },
             "ksi": {
                 "title": "Kashmir Shaiva Institute",
-                "description": "The premier educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
+                "description": "The educational institution committed to preserving, researching, and translating the universal teachings of Trika philosophy worldwide.",
                 "copyright": "Kashmir Shaiva Institute"
             }
         },
@@ -996,11 +996,11 @@
             "contentPart2Prefix": "The word ",
             "contentPart2Em": "Trika",
             "contentPart2Middle": " translates to \"the threefold science of man and his world.\" Within this system, it is recognized that there are three primary energies: ",
-            "contentPart2Para": "parā",
+            "contentPart2Para": "parā ",
             "contentPart2ParaLabel": " (supreme), ",
-            "contentPart2Parapara": "parāparā",
+            "contentPart2Parapara": "parāparā ",
             "contentPart2ParaparaLabel": " (medium), and ",
-            "contentPart2Apara": "aparā",
+            "contentPart2Apara": "aparā ",
             "contentPart2AparaLabel": " (lowest). This whole universe and every action in it, whether spiritual, physical, or worldly, exists within these three energies.",
             "subtitle": "The Secret Supreme",
             "contentPart3": "Due to the rise and fall of Kashmir over the past eight centuries, the knowledge of Kashmir Shaivism remained practically hidden, passed down strictly by word of mouth from master to disciple.",
